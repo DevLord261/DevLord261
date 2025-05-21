@@ -13,7 +13,7 @@ I'm a passionate Web and Softawre developer. I studied at Al Maaref University a
 
 - **Rust**: Building small applications to learn syntax and the language features.
 - **React && CSS**: Building bunch of projects with responsive layout
-
+- **Flutter**: Building mobile applications using flutter to get my hand on the framework.
 ## 🚀 My Projects
 
 ### [Onehand](https://github.com/DevLord261/OneHand_frontend.git)
