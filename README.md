@@ -23,4 +23,4 @@ A crowdfunding website with more features and support for more countries and pay
 A mobile version of the application using flutter and dart for my mobile course in University.
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ly-sec&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ly-sec&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLord261&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDevLord261&layout=compact&theme=radical)
